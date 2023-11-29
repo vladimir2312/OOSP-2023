@@ -1,0 +1,4 @@
+
+interface DataReader {
+    void readData();
+}

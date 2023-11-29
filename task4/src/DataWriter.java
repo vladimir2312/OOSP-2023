@@ -1,0 +1,4 @@
+
+interface DataWriter {
+    void writeData();
+}
